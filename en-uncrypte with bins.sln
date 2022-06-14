@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32505.426
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "en-uncrypte with bins", "en-uncrypte with bins\en-uncrypte with bins.vcxproj", "{47269E1E-F7B7-4F1C-BEC9-51DCB46162E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47269E1E-F7B7-4F1C-BEC9-51DCB46162E5}.Debug|x64.ActiveCfg = Debug|x64
+		{47269E1E-F7B7-4F1C-BEC9-51DCB46162E5}.Debug|x64.Build.0 = Debug|x64
+		{47269E1E-F7B7-4F1C-BEC9-51DCB46162E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{47269E1E-F7B7-4F1C-BEC9-51DCB46162E5}.Debug|x86.Build.0 = Debug|Win32
+		{47269E1E-F7B7-4F1C-BEC9-51DCB46162E5}.Release|x64.ActiveCfg = Release|x64
+		{47269E1E-F7B7-4F1C-BEC9-51DCB46162E5}.Release|x64.Build.0 = Release|x64
+		{47269E1E-F7B7-4F1C-BEC9-51DCB46162E5}.Release|x86.ActiveCfg = Release|Win32
+		{47269E1E-F7B7-4F1C-BEC9-51DCB46162E5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53EE8857-EB36-4A89-8385-1BA36AA823BC}
+	EndGlobalSection
+EndGlobal
